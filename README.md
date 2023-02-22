@@ -4,7 +4,7 @@
 ![venuz](https://user-images.githubusercontent.com/110145347/220708296-bd1c9932-54b9-4f9e-af8e-fdd32d42c238.gif)
 
 
-- 🌱 I’m currently learning **Java, C#**
+<h1 align="center">🌱 I’m currently learning **Java, C#**</h1>
 
 - 📫 How to reach me **venuz#8013**
 
