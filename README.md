@@ -3,7 +3,7 @@
 
 
 
-              ![venuz](https://user-images.githubusercontent.com/110145347/220710970-c91d6dd1-6ad2-433c-920b-dd94b99a84eb.gif)
+   ![venuz](https://user-images.githubusercontent.com/110145347/220710970-c91d6dd1-6ad2-433c-920b-dd94b99a84eb.gif)
 
 
 
